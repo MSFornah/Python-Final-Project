@@ -64,7 +64,8 @@ This project is for educational use only and may not be redistributed for commer
 
 ## 👤 Author
 * **Mohamed Shuaib Fornah**
-*(https://github.com/MSFornah)
+
+*[(https://github.com/MSFornah)](https://github.com/MSFornah)
 
 ```
 
